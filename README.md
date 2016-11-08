@@ -19,7 +19,7 @@
 ###Online Session: Tuesday November 8th from 5pm - 6pm
 
 
-###COURSE FOCUS:  PC and Mac Basics, Email, Mailing Lists, Webinars, Hangouts
+###COURSE FOCUS:  Google Drive, Excel Sheets, Powerpoint
 
 
 ##Class 3: Friday Nov. 18th from 5pm - 7pm
