@@ -57,6 +57,8 @@
 
 ###COURSE FOCUS: HTML/CSS/Web Development, GitHub, Wordpress + Squarespace
 
+####Special Guest Speaker!
+
 
 ##REMOTE CLASS: Class 7: Friday Dec. 16th from 5pm - 7pm
 
