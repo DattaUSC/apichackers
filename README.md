@@ -37,7 +37,7 @@
 ###Online Session: Tuesday November 22nd from 5pm - 6pm
 
 
-###COURSE FOCUS: Social Media Training & Digital Marketing, Blogging, GitHub 101
+###COURSE FOCUS: Social Media Training & Digital Marketing, Paid Advertising, Blogging, GitHub 101, Bootstrap Websites
 
 
 ##Class 5: Friday Dec. 2nd from 5pm - 7pm
@@ -46,7 +46,7 @@
 ###Online Session: Saturday December 3rd  from 4pm - 5pm
 
 
-###COURSE FOCUS: Social Media Training & Digital Marketing, Paid Advertising
+###COURSE FOCUS: Workshop: Creating a LinkedIn Profile and PDF (Word) Resume
 
 
 ##Class 6: Friday Dec. 9th from 5pm - 7pm
