@@ -46,7 +46,7 @@
 ###Online Session: Saturday December 3rd  from 4pm - 5pm
 
 
-###COURSE FOCUS: Workshop: Creating a LinkedIn Profile and PDF (Word) Resume
+###COURSE FOCUS: Wordpress 101 and HTML 101
 
 
 ##Class 6: Friday Dec. 9th from 5pm - 7pm
