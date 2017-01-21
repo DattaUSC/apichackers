@@ -110,7 +110,7 @@
 
 ###COURSE FOCUS: Website Setup and Maintenance, Wordpress + Squarespace
 
-##FINAL CLASS - Class: Satruday Feb. 4th CHAA END PARTY!
+##FINAL PARTY!!! - Class: Saturday Feb. 4th CHAA END PARTY!
 
 ####This Technology Training has Four Modules:
 
