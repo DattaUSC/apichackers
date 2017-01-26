@@ -102,13 +102,11 @@
 ###Online Session: Saturday Jan. 28st from 4pm - 5pm
 
 
-###COURSE FOCUS: Website Setup and Maintenance, Wordpress + Squarespace
-
+###COURSE FOCUS: Website Setup and Maintenance, Wordpress, Codecademy
 
 ##FINAL CLASS - Class 12: Friday Feb. 3rd from 5pm - 7pm
 
-
-###COURSE FOCUS: Website Setup and Maintenance, Wordpress + Squarespace
+###COURSE FOCUS: Website Setup and Maintenance, LinkedIn + Lynda.com Free Trial?
 
 ##FINAL PARTY!!! - Class: Saturday Feb. 4th CHAA END PARTY!
 
